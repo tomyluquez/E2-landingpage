@@ -1,0 +1,63 @@
+@font-face {
+    font-family: "popins";
+    src: url(/fonts/Poppins/Poppins-Light.ttf);
+}
+.vaca{
+    height: 80px;
+    width: 80px;
+    position: absolute;
+    top: 12px; 
+    left: 50px;
+}
+.navegadores{
+    font-family: "popins";
+    display: flex;
+    justify-content: flex-end;
+}
+.nav1{
+    padding: 10px;
+    margin-top: 20px;
+}
+.nav2{
+    padding: 10px;
+    margin-top: 20px
+}
+.nav3{
+    padding: 10px;
+    margin-top: 20px;
+}
+.nav4{
+    padding: 10px;
+    margin-top: 20px;
+}
+.nav1:hover{
+    background-color: rgba(218, 210, 210, 0.392);
+    color: rgb(0, 0, 0);
+    cursor: hand;
+    font-size: 18;
+    transition: 0.3s;
+}
+.nav2:hover{
+    background-color: rgba(218, 210, 210, 0.392);
+    color: rgb(0, 0, 0);
+    cursor: hand;
+    font-size: 18;
+    transition: 0.3s;
+}
+.nav3:hover{
+    background-color: rgba(218, 210, 210, 0.392);
+    color: rgb(0, 0, 0);
+    cursor: hand;
+    font-size: 18;
+    transition: 0.3s;
+}
+.nav4:hover{
+    background-color: rgba(218, 210, 210, 0.392);
+    color: rgb(0, 0, 0);
+    cursor: hand;
+    font-size: 18;
+    transition: 0.3s;
+}
+.vaca:hover{
+    cursor: hand;
+}
